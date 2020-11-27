@@ -2,6 +2,10 @@ name: Mifos-Mobile-CN CI[Master/Redesign]
 
 on:
   pull_request:
+    branches:
+      - 'master'
+      - 'redesign'
+
   push:
     branches:
       - 'master'
