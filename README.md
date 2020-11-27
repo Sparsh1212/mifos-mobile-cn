@@ -13,7 +13,7 @@ Android Client is built on top of the Fineract CN platform.
 4. Once the gradle build is finished, click on the green play button to build and run the app.
 
 ### Demo Credentials
-You can use these credentials to log in anytime, anywhere, everywhere.
+You can use these credentials to log in anytime, anywhere, everywhere, all.
 ```
 Username: fineractCn
 Password: password
