@@ -21,7 +21,7 @@ Password: password
 
 ## Contributing
 
-We love Pull Requests, Bug Reports, ideas, code reviews or any other kind of positive contribution. 
+We love Pull Requests, Bug Reports, ideas, code reviews or any other kind of positive contributions.
 
 - [Current issues](https://github.com/openMF/mifos-mobile-cn/issues) 
 - [Pull requests](https://github.com/openMF/mifos-mobile-cn/pulls)
